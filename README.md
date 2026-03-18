@@ -77,3 +77,5 @@ flutter test test/widgets/primary_button_test.dart
 - PrimaryButton – handles text, loading state, and callback
 - Can be reused across screens for consistency
 - Note: The PrimaryButton is used here as a reference for widget testing, but the app also contains other widgets such as BalanceCard, CustomAppBar, etc..
+
+![Send Money Sequence Diagram](https://github.com/ezekiel-p/send-money-app/blob/main/sequence_diagram.png)
