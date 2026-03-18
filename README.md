@@ -85,3 +85,7 @@ flutter test test/widgets/primary_button_test.dart
 ## **Send Money Sequence Diagram**
 
 ![Send Money Sequence Diagram](https://github.com/ezekiel-p/send-money-app/blob/main/sequence_diagram.png)
+
+## **Demo Video**
+
+https://github.com/ezekiel-p/send-money-app/blob/main/Android%20Emulator%20-%20Pixel_8_Pro_5556%202026-03-18%2013-52-59.mp4
