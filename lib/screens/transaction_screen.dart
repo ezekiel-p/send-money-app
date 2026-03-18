@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:send_money_app/bloc/transaction/transaction_bloc.dart';
 import 'package:send_money_app/bloc/transaction/transaction_event.dart';
 import 'package:send_money_app/bloc/transaction/transaction_state.dart';
-import 'package:send_money_app/widgets/app_bar.dart';
+import 'package:send_money_app/widgets/custom_app_bar.dart';
 import 'package:intl/intl.dart'; // for formatting date
 
 class TransactionScreen extends StatefulWidget {
