@@ -78,4 +78,10 @@ flutter test test/widgets/primary_button_test.dart
 - Can be reused across screens for consistency
 - Note: The PrimaryButton is used here as a reference for widget testing, but the app also contains other widgets such as BalanceCard, CustomAppBar, etc..
 
+## **Class Diagram**
+
+![Class Diagram](https://github.com/ezekiel-p/send-money-app/blob/main/class_diagram.png)
+
+## **Send Money Sequence Diagram**
+
 ![Send Money Sequence Diagram](https://github.com/ezekiel-p/send-money-app/blob/main/sequence_diagram.png)
